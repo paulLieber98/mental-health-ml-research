@@ -1,5 +1,3 @@
-# mental-health-ml-research
-
 ## overview
 Independent research project investigating the use of machine learning to predict depression frequency and sleep disturbances based on digital behavior and self-reported mental health data.
 
