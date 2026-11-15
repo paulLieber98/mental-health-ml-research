@@ -7,4 +7,8 @@ Independent research project investigating the use of machine learning to predic
 - Methods: Data preprocessing, exploratory data analysis, SMOTE, model training, and evaluation
 
 ## research paper
-The accompanying paper will be available on Zenodo.
+This paper is publicly available on Zenodo. The accompanying Jupyter notebook contains the data analysis, model training, and evaluation.
+
+**Title:** Predicting Depression and Sleep Issues from Digital Behavior Using Machine Learning
+
+DOI: [10.5281/zenodo.24265034](https://doi.org/10.5281/zenodo.24265034)
