@@ -1,4 +1,4 @@
-## overview
+## **OVERVIEW**
 Independent research project investigating the use of machine learning to predict depression frequency and sleep disturbances based on digital behavior and self-reported mental health data.
 
 - Research conducted: (November 2024 - July 2025)
@@ -6,7 +6,7 @@ Independent research project investigating the use of machine learning to predic
 - Libraries: Pandas, NumPy, Scikit-learn, Imbalanced-learn, Matplotlib, Seaborn, TensorFlow/Keras, statsmodels
 - Methods: Data preprocessing, exploratory data analysis, SMOTE, model training, and evaluation
 
-## research paper
+## **RESEARCH PAPER**
 This paper is publicly available on Zenodo. The accompanying Jupyter notebook contains the data analysis, model training, and evaluation.
 
 **Title:** Predicting Depression and Sleep Issues from Digital Behavior Using Machine Learning
